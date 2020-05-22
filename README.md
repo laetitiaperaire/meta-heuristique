@@ -2,6 +2,7 @@
 rendu 4A INSA - TPs méthodes sur des jobs, machines, tâches
 rendu 4A INSA - TPs méthodes d'optimisation sur des jobs, machines, tâches
 
+- projet originel : https://github.com/insa-4ir-meta-heuristiques/template-jobshop
 - projet java : classes des solveurs en grande partie implémentées
 - pdf : rapport associé aux tps
 
