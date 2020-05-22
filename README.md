@@ -5,7 +5,7 @@ rendu 4A INSA - TPs méthodes d'optimisation sur des jobs, machines, tâches
 - pdf : rapport associé aux tps
 
 
->>> pour le faire tourner sur windows/eclipse:
+# pour le faire tourner sur windows/eclipse:
 - avoir un jdk 
 - executer le gradlew avec la bonne commande (celle du readme* est fausse) : gradlew cleanEclipse eclipse
 - importer le projet comme une java application
